@@ -1,2 +1,2 @@
 # Banking-system
-Banking system where all the transaction happens
+This is the Desktop User Application where a user can Make the account  and deposit the starting money and can perform further all operation like deposits and can  do withdraw operation too, the changes would be seen in the form,the user can also transfer money  from one account to another account this all is done by using .net framework where c# language is used and sql management server for backend where all personal user information will be stored in the form of tables.
